@@ -14,9 +14,8 @@ Getting Started
 Clone the Repository:
 
 Bash
-git clone https://github.com/your-username/amazon-clone.git
+[git clone https://github.com/your-username/amazon-clone.git](https://github.com/Dharm2412/Amazone_clone-Page.git)
 Use code with caution.
-Replace your-username with your actual GitHub username.
 
 Open the Project:
 
@@ -40,9 +39,6 @@ Contributing
 
 Feel free to fork this repository and make your own contributions. You can improve the HTML structure, enhance the CSS styles, or add basic JavaScript functionality (optional) to make the clone more interactive.
 
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Additional Notes
 
