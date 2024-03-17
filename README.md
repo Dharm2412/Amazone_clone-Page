@@ -45,7 +45,7 @@ License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Additional Notes
+Additional Notes..
 
 This is a front-end clone; it does not include any back-end functionality or shopping cart features.
 You can customize the CSS styles to create your own unique style or match Amazon's design more closely.
