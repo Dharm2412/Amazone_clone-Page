@@ -11,7 +11,7 @@ Structuring the page using HTML elements (headings, paragraphs, lists, images, e
 Applying CSS styles to achieve a similar look and feel to the original Amazon website (navigation bar, search bar, product listings, etc.)
 Getting Started
 
-Clone the Repository:
+Clone  the  Repository:
 
 Bash
 git clone https://github.com/Dharm2412/Amazone_clone-Page.git
