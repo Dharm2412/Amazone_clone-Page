@@ -3,7 +3,7 @@ Amazon Clone - Front-End (HTML & CSS)
 
 This repository contains the front-end code for a basic clone of the Amazon website, built using HTML and CSS.
 
-Project Overview
+Project Overview:
 
 This project provides a foundation for practicing front-end development skills by replicating the visual layout of Amazon's main page. It focuses on:
 
