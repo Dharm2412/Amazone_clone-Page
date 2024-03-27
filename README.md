@@ -50,4 +50,4 @@ Additional Notes
 This is a front-end clone; it does not include any back-end functionality or shopping cart features.
 You can customize the CSS styles to create your own unique style or match Amazon's design more closely.
 Consider using external resources (e.g., fonts) responsibly by including them in the project directory or linking to them appropriately.
-I hope this README file provides a clear and informative overview of your project!
+I hope this README file provides a clear and informative overview of your project!!
