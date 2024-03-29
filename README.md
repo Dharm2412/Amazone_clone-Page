@@ -30,7 +30,7 @@ Amazone_clone-Page/
 ├── css/
 │   └── style.css
 ├── index.html
-└── images/        (Optional, for product images)
+└── images/        ( Optional, for product images )
 index.html: The main HTML file that defines the overall structure of the page.
 css/: Directory containing the CSS stylesheet (style.css) for styling the HTML elements.
 images/ (Optional): Directory for storing any images used in the project (e.g., product images, logo).
