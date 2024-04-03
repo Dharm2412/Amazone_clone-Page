@@ -36,7 +36,7 @@ css/: Directory containing the CSS stylesheet (style.css) for styling the HTML e
 images/ (Optional): Directory for storing any images used in the project (e.g., product images, logo).
 Contributing
 
-Next Steps
+Next Steps...
 
 Consider adding comments to your HTML and CSS code to explain the purpose of different elements and styles. This will make your code easier to understand for yourself and others.
 Explore ways to further enhance the visual fidelity of the clone by using CSS features like flexbox, grid, and media queries for responsive design.
