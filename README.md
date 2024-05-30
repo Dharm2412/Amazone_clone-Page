@@ -36,6 +36,9 @@ css/: Directory containing the CSS stylesheet (style.css) for styling the HTML e
 images/ (Optional): Directory for storing any images used in the project (e.g., product images, logo).
 Contributing
 
+![Screenshot 2024-05-30 212840](https://github.com/Dharm2412/Amazone_clone-Page/assets/142787486/49b9e2c5-38c6-48f1-ba48-3d8eed2cb240)
+
+
 Next Steps.
 
 Consider adding comments to your HTML and CSS code to explain the purpose of different elements and styles. This will make your code easier to understand for yourself and others.
